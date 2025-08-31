@@ -19,13 +19,13 @@ This project is ideal for developers looking to:
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔎 **City-Based Weather Search** – Get instant weather details anywhere in the world
-- 📡 **Real-time API Data** – Powered by OpenWeatherMap REST API
-- 🌡 **Weather Metrics** – Current temperature, humidity, and wind speed
-- 🌦 **Weather Icons** – Dynamic visuals for sunny, rainy, cloudy, etc.
-- 📱 **Responsive UI** – Optimized for both desktop and mobile devices
+- 1.🔎 **City-Based Weather Search** – Get instant weather details anywhere in the world
+- 2. **Real-time API Data** – Powered by OpenWeatherMap REST API
+- 3. **Weather Metrics** – Current temperature, humidity, and wind speed
+- 4. **Weather Icons** – Dynamic visuals for sunny, rainy, cloudy, etc.
+- 5. **Responsive UI** – Optimized for both desktop and mobile devices
 
 ---
 
@@ -40,7 +40,7 @@ This project is ideal for developers looking to:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -69,23 +69,19 @@ The app will run on [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 🌍 Deployment
+##  Deployment
 
 Deploy on Netlify or Vercel:
 1. Push the repo to GitHub
 2. Import the repo in Netlify or Vercel
 3. Add your API key as an environment variable in the dashboard
-4. Deploy 🚀
+4. Deploy 
 
 ---
 
-## 📸 Preview
 
-*(Add screenshots or GIFs of your app here to show it in action)*
 
----
-
-## 🔮 Future Improvements
+##  Future Improvements
 
 - 7-day weather forecast
 - Dark mode toggle
@@ -94,7 +90,7 @@ Deploy on Netlify or Vercel:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repo
 2. Create a new branch (`git checkout -b feature-name`)
